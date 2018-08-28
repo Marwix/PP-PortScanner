@@ -1,0 +1,20 @@
+C:\Users\Allan\Desktop\Port Scanner - X\Port Scanner - X\bin\Debug\Port Scanner - X.exe
+C:\Users\Allan\Desktop\Port Scanner - X\Port Scanner - X\bin\Debug\Port Scanner - X.pdb
+C:\Users\Allan\Desktop\Port Scanner - X\Port Scanner - X\bin\Debug\Port Scanner - X.xml
+C:\Users\Allan\Desktop\Port Scanner - X\Port Scanner - X\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Allan\Desktop\Port Scanner - X\Port Scanner - X\obj\x86\Debug\Port_Scanner___X.Form1.resources
+C:\Users\Allan\Desktop\Port Scanner - X\Port Scanner - X\obj\x86\Debug\Port_Scanner___X.Resources.resources
+C:\Users\Allan\Desktop\Port Scanner - X\Port Scanner - X\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Allan\Desktop\Port Scanner - X\Port Scanner - X\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Allan\Desktop\Port Scanner - X\Port Scanner - X\obj\x86\Debug\Port Scanner - X.exe
+C:\Users\Allan\Desktop\Port Scanner - X\Port Scanner - X\obj\x86\Debug\Port Scanner - X.xml
+C:\Users\Allan\Desktop\Port Scanner - X\Port Scanner - X\obj\x86\Debug\Port Scanner - X.pdb
+D:\Visual Studio\USB Stick\Project Pack [VB.NET] NEW - Xx rang3 di3\Port Scanner - X\Port Scanner - X\obj\x86\Debug\Port Scanner - X.exe
+D:\Visual Studio\USB Stick\Project Pack [VB.NET] NEW - Xx rang3 di3\Port Scanner - X\Port Scanner - X\obj\x86\Debug\Port Scanner - X.xml
+D:\Visual Studio\USB Stick\Project Pack [VB.NET] NEW - Xx rang3 di3\Port Scanner - X\Port Scanner - X\obj\x86\Debug\Port Scanner - X.pdb
+D:\Visual Studio\USB Stick\Project Pack [VB.NET] NEW - Xx rang3 di3\Port Scanner - X\Port Scanner - X\bin\Debug\Port Scanner - X.exe
+D:\Visual Studio\USB Stick\Project Pack [VB.NET] NEW - Xx rang3 di3\Port Scanner - X\Port Scanner - X\bin\Debug\Port Scanner - X.pdb
+D:\Visual Studio\USB Stick\Project Pack [VB.NET] NEW - Xx rang3 di3\Port Scanner - X\Port Scanner - X\bin\Debug\Port Scanner - X.xml
+D:\Visual Studio\USB Stick\Project Pack [VB.NET] NEW - Xx rang3 di3\Port Scanner - X\Port Scanner - X\obj\x86\Debug\Port_Scanner___X.Form1.resources
+D:\Visual Studio\USB Stick\Project Pack [VB.NET] NEW - Xx rang3 di3\Port Scanner - X\Port Scanner - X\obj\x86\Debug\Port_Scanner___X.Resources.resources
+D:\Visual Studio\USB Stick\Project Pack [VB.NET] NEW - Xx rang3 di3\Port Scanner - X\Port Scanner - X\obj\x86\Debug\Port Scanner - X.vbproj.GenerateResource.Cache
